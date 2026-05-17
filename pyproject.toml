@@ -1,0 +1,13 @@
+[project]
+name = "speech-emotion-recognizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "librosa>=0.11.0",
+    "resampy>=0.4.3",
+    "scikit-learn>=1.8.0",
+    "sounddevice>=0.5.5",
+]
